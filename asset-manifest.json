@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/nutrition-calculator/static/css/main.c3ae8604.chunk.css",
+    "main.js": "/nutrition-calculator/static/js/main.37c0086f.chunk.js",
+    "main.js.map": "/nutrition-calculator/static/js/main.37c0086f.chunk.js.map",
+    "runtime-main.js": "/nutrition-calculator/static/js/runtime-main.62066da2.js",
+    "runtime-main.js.map": "/nutrition-calculator/static/js/runtime-main.62066da2.js.map",
+    "static/js/2.5bc4d18c.chunk.js": "/nutrition-calculator/static/js/2.5bc4d18c.chunk.js",
+    "static/js/2.5bc4d18c.chunk.js.map": "/nutrition-calculator/static/js/2.5bc4d18c.chunk.js.map",
+    "index.html": "/nutrition-calculator/index.html",
+    "precache-manifest.b47e5fd2a950a949e54fc36ce38cfa6e.js": "/nutrition-calculator/precache-manifest.b47e5fd2a950a949e54fc36ce38cfa6e.js",
+    "service-worker.js": "/nutrition-calculator/service-worker.js",
+    "static/css/main.c3ae8604.chunk.css.map": "/nutrition-calculator/static/css/main.c3ae8604.chunk.css.map",
+    "static/js/2.5bc4d18c.chunk.js.LICENSE.txt": "/nutrition-calculator/static/js/2.5bc4d18c.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/nutrition-calculator/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/feature-tile-icon-01.svg": "/nutrition-calculator/static/media/feature-tile-icon-01.0f9928d7.svg",
+    "static/media/feature-tile-icon-02.svg": "/nutrition-calculator/static/media/feature-tile-icon-02.bd39f304.svg",
+    "static/media/feature-tile-icon-03.svg": "/nutrition-calculator/static/media/feature-tile-icon-03.66f37ba5.svg",
+    "static/media/feature-tile-icon-04.svg": "/nutrition-calculator/static/media/feature-tile-icon-04.836acd10.svg",
+    "static/media/feature-tile-icon-05.svg": "/nutrition-calculator/static/media/feature-tile-icon-05.fa9ba00b.svg",
+    "static/media/feature-tile-icon-06.svg": "/nutrition-calculator/static/media/feature-tile-icon-06.6a177696.svg",
+    "static/media/features-split-image-01.png": "/nutrition-calculator/static/media/features-split-image-01.d9cb99ce.png",
+    "static/media/features-split-image-02.png": "/nutrition-calculator/static/media/features-split-image-02.3c569239.png",
+    "static/media/features-split-image-03.png": "/nutrition-calculator/static/media/features-split-image-03.87e4d053.png",
+    "static/media/logo.svg": "/nutrition-calculator/static/media/logo.2810a88b.svg",
+    "static/media/video-placeholder.jpg": "/nutrition-calculator/static/media/video-placeholder.a622fc5d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62066da2.js",
+    "static/js/2.5bc4d18c.chunk.js",
+    "static/css/main.c3ae8604.chunk.css",
+    "static/js/main.37c0086f.chunk.js"
+  ]
+}
